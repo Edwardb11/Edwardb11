@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is 
+My name is Edward Brito Diaz
 <!--
 **Edwardb11/Edwardb11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
