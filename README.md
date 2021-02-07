@@ -23,17 +23,15 @@ My name is :crown: ***Edward Brito Diaz.*** :crown: <br>
 ### GitHub statistics
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Edwardb11&theme=default&show_icons=true)
 
-<br>
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Edwardb11)
 
 📫 How to contact me: <br>
 
 [![Facebook Badge](https://img.shields.io/badge/-EdwardBrito-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/EdwardBritoDiaz/)](https://www.facebook.com/EdwardBritoDiaz/) 
-
 [![Instagram Badge](https://img.shields.io/badge/-EdwardBrito-brightgreen?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/brito_edward11/)](https://www.instagram.com/brito_edward11/)
-
 [![Linkedin Badge](https://img.shields.io/badge/-EdwardBrito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-brito-diaz-b60909179/)](https://www.linkedin.com/in/edward-brito-diaz-b60909179/)
+<br>
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Edwardb11)
 
 > "Primero resuelve el problema. Entonces, escribe el código"
 >>-- John Johnson
