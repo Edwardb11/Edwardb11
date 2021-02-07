@@ -1,14 +1,23 @@
-### Hi there 👋
+# Hi there 👋
+---
+My name is :crown: ***Edward Brito Diaz.***  :crown:
+:computer: I am currently a student of Computer System Engineering.  
+:books: My secondary studies were at CEMAS.
+My experience:  
+1. JavaScript  
+2. Python  
+3. HTML 
+4. CSS  
+5.  BUlMA     <br>
 
-My name is Edward Brito Diaz.
-I am currently a student of Computer System Engineering.
-My secondary studies were at CEMAS.
-my experience:
-JavaScript, Python, HTML, CSS, BUlMA
-You can hire me:
-Facebook: https://www.facebook.com/EdwardBritoDiaz/
-Instagram: https://www.instagram.com/brito_edward11/
-linkedin: https://www.linkedin.com/in/edward-brito-diaz-b60909179/
+:mailbox_with_mail: You can hire me:
+
+[Facebook](https://www.facebook.com/EdwardBritoDiaz/)
+[Instagram](https://www.instagram.com/brito_edward11/)
+[linkedin](https://www.linkedin.com/in/edward-brito-diaz-b60909179/)
+
+> "Primero resuelve el problema. Entonces, escribe el código"
+-- John Johnson
 <!--
 **Edwardb11/Edwardb11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
