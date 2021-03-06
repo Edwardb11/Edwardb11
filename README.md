@@ -1,8 +1,8 @@
 # Hi there 👋 Welcome to my profile
 ---
-My name is :crown: ***Edward Brito Diaz.*** :crown: 
-:computer: I am currently a student of Computer System Engineering.  
-:books: My secondary studies were at CEMAS. 
+My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
+:computer: I am currently a student of Computer System Engineering.  <br> 
+:books: My secondary studies were at CEMAS.  <br> 
 
 ### Languages and tool
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -25,7 +25,7 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardb11" alt="edwardb11" /></a> </p> <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardb11&show_icons=true&locale=en&layout=compact" alt="edwardb11" /></p>  <br> <br> <br> <br> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardb11&show_icons=true&locale=en&layout=compact" alt="edwardb11" /></p>  <br> 
 
 ###  📫 How to contact me:
 
