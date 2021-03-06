@@ -26,7 +26,7 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardb11" alt="edwardb11" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardb11&show_icons=true&locale=en&layout=compact" alt="edwardb11" /></p> 
-<br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br> 
 
 ### 📫 How to contact me:
 
