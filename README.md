@@ -1,8 +1,8 @@
-# Hi there 👋
+# Hi there 👋 Welcome to my profile
 ---
-My name is :crown: ***Edward Brito Diaz.*** :crown: <br>
-:computer: I am currently a student of Computer System Engineering.  <br>
-:books: My secondary studies were at CEMAS. <br>
+My name is :crown: ***Edward Brito Diaz.*** :crown: 
+:computer: I am currently a student of Computer System Engineering.  
+:books: My secondary studies were at CEMAS. 
 
 ### Languages and tool
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -23,15 +23,16 @@ My name is :crown: ***Edward Brito Diaz.*** :crown: <br>
 ### GitHub statistics
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Edwardb11&theme=default&show_icons=true)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardb11" alt="edwardb11" /></a> </p> <br>
 
-📫 How to contact me: <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardb11&show_icons=true&locale=en&layout=compact" alt="edwardb11" /></p>  <br> <br> <br> <br> <br>
+
+###  📫 How to contact me:
 
 [![Facebook Badge](https://img.shields.io/badge/-EdwardBrito-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/EdwardBritoDiaz/)](https://www.facebook.com/EdwardBritoDiaz/) 
 [![Instagram Badge](https://img.shields.io/badge/-EdwardBrito-brightgreen?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/brito_edward11/)](https://www.instagram.com/brito_edward11/)
 [![Linkedin Badge](https://img.shields.io/badge/-EdwardBrito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-brito-diaz-b60909179/)](https://www.linkedin.com/in/edward-brito-diaz-b60909179/)
 <br>
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Edwardb11)
 
 > "Primero resuelve el problema. Entonces, escribe el código"
 >>-- John Johnson
