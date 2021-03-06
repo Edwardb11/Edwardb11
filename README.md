@@ -3,6 +3,7 @@
 My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 :computer: I am currently a student of Computer System Engineering.  <br> 
 :books: My secondary studies were at CEMAS.  <br> 
+🌱 I'm currently learning Git, PHP, Bulma, Xampp
 
 ### Languages and tool
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -19,6 +20,10 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br>
+
+###  Creative tools:
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png' alt='Photoshop' title="Adobe Photshop" height='40'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png' alt='Illustrator' title="Adobe Illustrator" height='40'>  <img src='https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png' alt='Canva' title="Canva" height='40'> <img src='https://upload.wikimedia.org/wikipedia/commons/e/ec/Wondershare_filmora_logo.svg' alt='Wondershare Filmora' title="Wondershare Filmora" height='40' ><br>
+
 
 ### GitHub statistics
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Edwardb11&theme=default&show_icons=true)
