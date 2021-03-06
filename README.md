@@ -23,11 +23,11 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 ### GitHub statistics
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Edwardb11&theme=default&show_icons=true)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardb11" alt="edwardb11" /></a> </p> <br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardb11" alt="edwardb11" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardb11&show_icons=true&locale=en&layout=compact" alt="edwardb11" /></p>  <br> 
-
-###  📫 How to contact me:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardb11&show_icons=true&locale=en&layout=compact" alt="edwardb11" /></p> 
+<br> <br> <br> <br> <br> <br>
+### 📫 How to contact me:
 
 [![Facebook Badge](https://img.shields.io/badge/-EdwardBrito-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/EdwardBritoDiaz/)](https://www.facebook.com/EdwardBritoDiaz/) 
 [![Instagram Badge](https://img.shields.io/badge/-EdwardBrito-brightgreen?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/brito_edward11/)](https://www.instagram.com/brito_edward11/)
