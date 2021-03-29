@@ -3,7 +3,7 @@
 My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 :computer: I am currently a Computer Systems Engineering student at UCATECI and a programming student at Cincinnatus Institute of Craftsmanship, S.R.L.  <br> 
 :books: My secondary studies were at CEMAS.  <br> 
-🌱 I'm currently learning php, mysqli, JavaScript and css
+🌱 I'm currently learning php, mysqli, JavaScript...
 
 ### Languages and tool
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -11,6 +11,7 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 <img align="left" alt="CSS" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
 <img align="left" alt="PHP" width="56px" src="https://miro.medium.com/max/4096/1*Y1hq9sHXG26Fyhys81z8rg.png" />
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -18,15 +19,12 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="Bulma" width="96px" src="https://bulma.io/images/bulma-logo.png" /> <br> 
-<br>
-
-###  Creative tools:
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png' alt='Photoshop' title="Adobe Photshop" height='40'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png' alt='Illustrator' title="Adobe Illustrator" height='40'>  <img src='https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png' alt='Canva' title="Canva" height='40'> <img src='https://upload.wikimedia.org/wikipedia/commons/e/ec/Wondershare_filmora_logo.svg' alt='Wondershare Filmora' title="Wondershare Filmora" height='40' ><br>
+<img align="left" alt="Bulma" width="96px" src="https://bulma.io/images/bulma-logo.png" />
+<br> 
 
 
 ### GitHub statistics
