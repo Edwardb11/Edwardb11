@@ -1,4 +1,4 @@
-# Hey, Edward here! 👋🏻🙍🏻‍♂️
+# Hi here👋🏻🙍🏻‍♂️I'm Edward 👨‍💻
 ---
 My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 :computer: I am currently a Computer Systems Engineering student at UCATECI and a programming student at Cincinnatus Institute of Craftsmanship, S.R.L.  <br> 
