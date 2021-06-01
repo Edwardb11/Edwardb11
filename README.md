@@ -18,17 +18,15 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 
-
 <img align="left" alt="Git" width="30px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"/>
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="Mysql" width="95px" src="https://getwingsfast.com/wp-content/uploads/2019/11/mysql-logo.jpg" />
+<img align="left" alt="Mysql" width="65px" src="https://lh3.googleusercontent.com/proxy/3Pobq4Kwqu-tfL_C9JvGjJ1J4Q6EHzJ8CmThIlIYG987tSvjTfoBgFk7cg5nXVNjNnvOKIZaYMCyV4kOf3OzisqDBkp_K4yafddXlw7j4pYVWHGB9gV8" />
 
-<img align="left" alt="Bulma" width="96px" src="https://bulma.io/images/bulma-logo.png" />
+<img align="left" alt="Bulma" width="96px" src="https://bulma.io/images/bulma-logo.png" />  
 
-
-<br> 
+<br>   
 
 
 ### GitHub statistics
