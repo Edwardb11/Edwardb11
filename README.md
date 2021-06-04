@@ -22,7 +22,7 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="Mysql" width="65px" src="https://lh3.googleusercontent.com/proxy/3Pobq4Kwqu-tfL_C9JvGjJ1J4Q6EHzJ8CmThIlIYG987tSvjTfoBgFk7cg5nXVNjNnvOKIZaYMCyV4kOf3OzisqDBkp_K4yafddXlw7j4pYVWHGB9gV8" />
+<img align="left" alt="Mysql" width="65px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 
 <img align="left" alt="Bulma" width="96px" src="https://bulma.io/images/bulma-logo.png" />  
 
