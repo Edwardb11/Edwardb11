@@ -16,7 +16,7 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 
 <img align="left" alt="Python" width="34px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
 <img align="left" alt="Git" width="30px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"/>
 
