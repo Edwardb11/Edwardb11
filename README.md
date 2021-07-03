@@ -3,7 +3,7 @@
 My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 :computer: I am currently a Computer Systems Engineering student at UCATECI and a programming student at Cincinnatus Institute of Craftsmanship, S.R.L.  <br> 
 :books: My secondary studies were at CEMAS.  <br> 
-🌱 I'm currently learning JavaScript, Node.js, bootstrap...
+🌱 I'm currently learning JavaScript, Node.js, SQL, C.
 
 ### Languages, Frameworks and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -25,11 +25,12 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 <img align="left" alt="Mysql" width="65px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" />
 
 <img align="left" alt="Bulma" width="96px" src="https://bulma.io/images/bulma-logo.png" />  
+<img align="left" alt="bootstrap" width="46px" src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png" />  
 
-<br>   
+<br>     
 
 
-### GitHub statistics
+   ### GitHub statistics
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Edwardb11&theme=default&show_icons=true)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardb11" alt="edwardb11" /></a> </p>
