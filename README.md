@@ -20,11 +20,11 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 
 <img align="left" alt="Git" width="30px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"/>
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="56px" src="https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg" />
 
 <img align="left" alt="Mysql" width="65px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" />
 
-<img align="left" alt="Bulma" width="96px" src="https://bulma.io/images/bulma-logo.png" />  
+<img align="left" alt="Bulma" width="96px" src="https://bulma.io/images/bulma-banner.png" />  
 <img align="left" alt="bootstrap" width="46px" src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png" />  
 <img align="left" alt="c" width="66px" src="https://disenowebakus.net/imagenes/articulos/lenguaje-de-programacion-c.jpg" />  
 
