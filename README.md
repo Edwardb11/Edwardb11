@@ -3,7 +3,7 @@
 My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 :computer: I am currently a Computer Systems Engineering student at UCATECI and a programming student at Cincinnatus Institute of Craftsmanship, S.R.L.  <br> 
 :books: My secondary studies were at CEMAS.  <br> 
-🌱 I'm currently learning JavaScript, Node.js, SQL.
+🌱 I'm currently learning JavaScript, Node.js, SQL, React.js.
 
 ### Languages, Frameworks and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -26,6 +26,7 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 
 <img align="left" alt="Bulma" width="96px" src="https://bulma.io/images/bulma-logo.png" />  
 <img align="left" alt="bootstrap" width="46px" src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png" />  
+<img align="left" alt="c" width="66px" src="https://disenowebakus.net/imagenes/articulos/lenguaje-de-programacion-c.jpg" />  
 
 <br>     
 
