@@ -28,7 +28,9 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 <img align="left" alt="bootstrap" width="46px" src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png" />  
 <img align="left" alt="c" width="66px" src="https://disenowebakus.net/imagenes/articulos/lenguaje-de-programacion-c.jpg" />  
 
-<br>     
+<br>  
+
+
 
 
    ### GitHub statistics
