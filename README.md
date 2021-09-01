@@ -29,11 +29,7 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 <img align="left" alt="c" width="66px" src="https://disenowebakus.net/imagenes/articulos/lenguaje-de-programacion-c.jpg" />  
 
 <br>  
-
-
-
-
-   ### GitHub statistics
+### GitHub statistics
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Edwardb11&theme=default&show_icons=true)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardb11" alt="edwardb11" /></a> </p>
