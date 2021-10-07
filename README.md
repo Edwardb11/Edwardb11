@@ -8,27 +8,27 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 🌱 I'm currently learning JavaScript, Strapi, sql server, React.js.
 
 ### Languages, Frameworks and Tools:
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="left" alt="CSS" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" />
+<img align="left" alt="CSS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="PHP" width="56px" src="https://miro.medium.com/max/4096/1*Y1hq9sHXG26Fyhys81z8rg.png" />
+<img align="left" alt="PHP" width="57px" src="https://miro.medium.com/max/4096/1*Y1hq9sHXG26Fyhys81z8rg.png" />
 
-<img align="left" alt="Python" width="34px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
+<img align="left" alt="Python" width="31px" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
 <img align="left" alt="Git" width="30px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"/>
 
-<img align="left" alt="GitHub" width="56px" src="https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg" />
+<img align="left" alt="GitHub" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
 
 <img align="left" alt="Mysql" width="65px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" />
 
-<img align="left" alt="Bulma" width="96px" src="https://bulma.io/images/bulma-banner.png" />  
+<img align="left" alt="Bulma" width="26px" src="https://seeklogo.com/images/B/bulma-logo-45B5145BF4-seeklogo.com.png" />  
 <img align="left" alt="bootstrap" width="46px" src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png" />  
-<img align="left" alt="c" width="66px" src="https://disenowebakus.net/imagenes/articulos/lenguaje-de-programacion-c.jpg" />  
+<img align="left" alt="c" width="56px" src="https://www.pragimtech.com/wp-content/uploads/2020/03/c-tutorial-for-beginners.png" />  
 
 <br><br> 
 ### GitHub statistics
