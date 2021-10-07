@@ -16,7 +16,7 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 
 <img align="left" alt="PHP" width="57px" src="https://miro.medium.com/max/4096/1*Y1hq9sHXG26Fyhys81z8rg.png" />
 
-<img align="left" alt="Python" width="31px" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
+<img align="left" alt="Python" width="31px" src="https://www.seekpng.com/png/full/70-701896_python-transparent-background-graphic-design.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
@@ -28,7 +28,7 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 
 <img align="left" alt="Bulma" width="26px" src="https://seeklogo.com/images/B/bulma-logo-45B5145BF4-seeklogo.com.png" />  
 <img align="left" alt="bootstrap" width="46px" src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png" />  
-<img align="left" alt="c" width="56px" src="https://www.pragimtech.com/wp-content/uploads/2020/03/c-tutorial-for-beginners.png" />  
+<img align="left" alt="c" width="36px" src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" />  
 
 <br><br> 
 ### GitHub statistics
