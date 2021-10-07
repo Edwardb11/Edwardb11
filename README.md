@@ -1,7 +1,9 @@
-# Hi there👋🏻🙍🏻‍♂️I'm Edward 👨‍💻
+# Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">🙍🏻‍♂️I'm Edward 👨‍💻
 ---
 My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 :computer: I am currently a Computer Systems Engineering student at UCATECI and a programming student at Cincinnatus Institute of Craftsmanship, S.R.L.  <br> 
+ 🔭 I’m currently working on *some proyects with React and Strapi*
+
 :books: My secondary studies were at CEMAS.  <br> 
 🌱 I'm currently learning JavaScript, Strapi, sql server, React.js.
 
@@ -38,7 +40,7 @@ My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwardb11&" alt="edwardb11" /></p>
 
-
+<a href="https://app.daily.dev/edwardb11"><img src="https://api.daily.dev/devcards/63b514236c764222a3592cfb1df41fb1.png?r=sw9" width="400" alt="Edward Brito Diaz's Dev Card"/></a>
 ### 📫 How to contact me:
 
 [![Facebook Badge](https://img.shields.io/badge/-EdwardBrito-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/EdwardBritoDiaz/)](https://www.facebook.com/EdwardBritoDiaz/) 
