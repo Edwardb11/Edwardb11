@@ -1,34 +1,62 @@
 # Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">🙍🏻‍♂️I'm Edward 👨‍💻
 ---
-My name is :crown: ***Edward Brito Diaz.*** :crown:  <br>
-:computer: I am currently a Computer Systems Engineering student at UCATECI and a programming student at Cincinnatus Institute of Craftsmanship, S.R.L.  <br> 
- 🔭 I’m currently working on *some proyects with React and Strapi*
+<a href="https://twitter.com/brito_edward11">
+  <img align="left" alt="Edward Brito | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
-:books: My secondary studies were at CEMAS.  <br> 
-🌱 I'm currently learning JavaScript, Strapi, sql server, React.js.
+<a href="https://www.linkedin.com/in/edward-brito-diaz-b60909179/">
+  <img align="left" alt="Edward' LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-### Languages, Frameworks and Tools:
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+![Edwardb11](https://komarev.com/ghpvc/?username=edwardb11&label=Profile%20views&color=0e75b6&style=flat)
 
-<img align="left" alt="CSS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" />
 
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+- My name is :crown: ***Edward Brito Diaz***:crown:  <br>
+- :computer: I am currently a Computer Systems Engineering student at UCATECI and a programming student at Cincinnatus Institute of Craftsmanship, S.R.L.<br>
+- 👨‍💻 I work as a software developer apprentice at 👉 [Intellisys D. Corp.](https://intellisysdcorp.com) 👈  <br> 
+- 💬 Ask me about any technology you see in languages or tools and frameworks.
+-  🔭 I’m currently working on *some proyects with React and Strapi.* <br> 
+- :books:   My secondary studies were at CEMAS.  <br> 
+- 🌱 I'm currently learning JavaScript, Strapi, Sql Server, React.js and Firebase.
 
-<img align="left" alt="PHP" width="57px" src="https://miro.medium.com/max/4096/1*Y1hq9sHXG26Fyhys81z8rg.png" />
+### Languages
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="left" alt="Python" width="31px" src="https://www.seekpng.com/png/full/70-701896_python-transparent-background-graphic-design.png" />
+<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/>
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="Git" width="30px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"/>
+<img align="left" alt="PHP" width="67px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" />
 
-<img align="left" alt="GitHub" width="84px" src="https://popdock.com/wp-content/uploads/github-logo-e1533134507384.png" />
+<img align="left" alt="Python" width="41px" src="https://www.seekpng.com/png/full/70-701896_python-transparent-background-graphic-design.png" />
 
-<img align="left" alt="Mysql" width="65px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" />
 
-<img align="left" alt="Bulma" width="26px" src="https://seeklogo.com/images/B/bulma-logo-45B5145BF4-seeklogo.com.png" />  
-<img align="left" alt="bootstrap" width="46px" src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png" />  
-<img align="left" alt="c" width="36px" src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" />  
+<img align="left" alt="Sql" width="75px" src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" />
+
+<img align="left" alt="c" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />  
+
+
+<br><br> 
+
+### Tools and Frameworks
+
+<img align="left" alt="sqlServer" width="60px" src="https://datawarehouse.io/wp-content/uploads/2020/04/MSSQL.png" />  
+
+<img align="left" alt="mysql" width="70px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" />  
+
+<img align="left" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" />
+
+<img align="left" alt="Jquery" width="50px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-27.jpg"/>  
+
+<img align="left" alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />  
+
+<img align="left" alt="gitHub" width="100px" src="https://clipart.info/images/ccovers/1499794873github-logo-png.png" />  
+
+<img align="left" alt="tailwind" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png "/>  
+
+<img align="left" alt="bootstrap" width="56px" src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png"/>  
+
+<img align="left" alt="bulma" width="30px" src="https://iconape.com/wp-content/files/df/370667/svg/bulma-logo-icon-png-svg.png "/>  
 
 <br><br> 
 ### GitHub statistics
