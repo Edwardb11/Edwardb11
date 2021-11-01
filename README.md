@@ -56,7 +56,7 @@
 
 <img align="left" alt="bootstrap" width="56px" src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png"/>  
 
-<img align="left" alt="bulma" width="30px" src="https://iconape.com/wp-content/files/df/370667/svg/bulma-logo-icon-png-svg.png "/>  
+<img align="left" alt="bulma" width="100px" src="https://bulma.io/images/bulma-logo.png"/>  
 
 
 <br><br> 
