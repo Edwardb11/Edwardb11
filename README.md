@@ -52,13 +52,15 @@
 
 <img align="left" alt="gitHub" width="100px" src="https://clipart.info/images/ccovers/1499794873github-logo-png.png" />  
 
-<img align="left" alt="tailwind" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png "/>  
+<img align="left" alt="tailwind" width="56px" src="https://btihen.me/post_ruby_rails/rails_6_1_tailwind_2_0_alpinejs/featured.png"/>  
 
 <img align="left" alt="bootstrap" width="56px" src="https://seocom.agency/wp-content/uploads/2019/02/bootstrap-stack.png"/>  
 
 <img align="left" alt="bulma" width="30px" src="https://iconape.com/wp-content/files/df/370667/svg/bulma-logo-icon-png-svg.png "/>  
 
+
 <br><br> 
+
 ### GitHub statistics
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Edwardb11&theme=default&show_icons=true)
 
