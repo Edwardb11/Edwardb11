@@ -13,7 +13,7 @@
 
 - My name is :crown: ***Edward Brito Diaz***:crown:  <br>
 - :computer: I am currently a Computer Systems Engineering student at UCATECI and a programming student at Cincinnatus Institute of Craftsmanship, S.R.L.<br>
-- 👨‍💻 I work as a software developer apprentice at 👉 [Intellisys D. Corp.](https://intellisysdcorp.com) 👈  <br> 
+- 👨‍💻 I work as a software developer at 👉 [Intellisys D. Corp.](https://intellisysdcorp.com) 👈  <br> 
 - 💬 Ask me about any technology you see in languages or tools and frameworks.
 -  🔭 I’m currently working on *some proyects with React and Strapi.* <br> 
 - :books:   My secondary studies were at CEMAS.  <br> 
