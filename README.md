@@ -17,7 +17,7 @@
 - 💬 Ask me about any technology you see in languages or tools and frameworks.
 -  🔭 I’m currently working on *some proyects with React and Strapi.* <br> 
 - :books:   My secondary studies were at CEMAS.  <br> 
-- 🌱 I'm currently learning JavaScript, Strapi, Sql Server, React.js and Firebase.
+- 🌱 I'm currently learning JavaScript, Strapi, Oracle, React.js and CCNA.
 
 ### Languages
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
