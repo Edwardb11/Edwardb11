@@ -1,6 +1,5 @@
-
-<div align="center" style="font-size:30px; font-style: italic; font-weight: bold; "> Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">🙍🏻‍♂️I'm Edward Brito 👨‍💻</div>
-<p  style="font-size:16px; font-style: italic;">I am passionate about technology and programming.</p>
+#  Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">🙍🏻‍♂️I'm Edward Brito 👨‍💻
+💻💻 _I am passionate about technology and programming._ 💻💻
 <div align="center">
   <a href="https://github.com/Edwardb11">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edwardb11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
