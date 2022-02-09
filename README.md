@@ -16,8 +16,8 @@
   <img align="center" alt="-C" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
   <img align="right" alt="-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/ce/a1/20/cea12066bc7834cfec0e67dab7df6036.jpg">
 </div>
-  
-<div style="padding-top:20px"> 
+    <br/><br/>
+<div> 
   <a href="https://www.facebook.com/EdwardBritoDiaz/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/brito_edward11/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:edwardbrito11@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
