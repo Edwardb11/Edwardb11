@@ -17,7 +17,7 @@
 - 💬 Ask me about any technology you see in languages or tools and frameworks.
 -  🔭 I’m currently working on *some proyects with React and Strapi.* <br> 
 - :books:   My secondary studies were at CEMAS.  <br> 
-- 🌱 I'm currently learning JavaScript, Strapi, Oracle, React.js and CCNA.
+- 🌱 I'm currently learning JavaScript, Oracle, React.js and CCNA.
 
 ### Languages
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -58,8 +58,11 @@
 
 <img align="left" alt="bulma" width="100px" src="https://bulma.io/images/bulma-logo.png"/>  
 
+<img align="left" alt="Strapi" width="100px" src="https://mms.businesswire.com/media/20200520005179/en/792790/23/Logo.WhiteBackground.jpg"/>  
 
 <br><br> 
+<br><br> 
+
 
 ### GitHub statistics
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Edwardb11&theme=default&show_icons=true)
