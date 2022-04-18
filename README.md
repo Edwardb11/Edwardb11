@@ -31,7 +31,10 @@
 </div>
   <br/>
 <div>
-   >>>"Primero resuelve el problema. >>>Entonces, escribe el código"
-    <br/> <b >John Johnson  </b> 
+<p> <i>Técnico Profesional en Computación en el Centro Educativo Manuel Acevedo Serrano Fe y Alegría (CEMAS) 2017 - 2019
+  
+Full Stack Web Development Cincinnatus Institute Of Craftsmanship (CIC) 2019 - 2021
+
+Computer System Engineering Universidad Católica del Cibao (UCATECI) Currently</p> </i>
   
 </div>
