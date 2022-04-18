@@ -31,7 +31,7 @@
 </div>
   <br/>
 <div>
-<p> <i>Técnico Profesional en Computación en el Centro Educativo Manuel Acevedo Serrano Fe y Alegría (CEMAS) 2017 - 2019
+<p> <i>Professional Computer Technician in the Centro Educativo Manuel Acevedo Serrano Fe y Alegría (CEMAS) 2017 - 2019
   
 Full Stack Web Development Cincinnatus Institute Of Craftsmanship (CIC) 2019 - 2021
 
