@@ -28,11 +28,29 @@
 
 </div>
   <br/>
+  <br/>
 <div>
-<p> <i>Professional Computer Technician in the Centro Educativo Manuel Acevedo Serrano Fe y Alegría (CEMAS) 2017 - 2019
-  
-Full Stack Web Development Cincinnatus Institute Of Craftsmanship (CIC) 2019 - 2021
 
-Computer System Engineering Universidad Católica del Cibao (UCATECI) Currently</p> </i>
-  
+I'm a Full-Stack developer with around 2 years of experience in developing web applications. My specialization is in Full-Stack development using JavaScript, React.js with TypeScript, Material UI, GraphQL, and Node.js with Nest.js, Express.js, TypeORM, Postgres, and Docker.
+
+I have a strong passion for technology and am always looking for ways to improve my skills and learn new ones. I am an enthusiastic collaborator and believe in working in a team to achieve common goals.
+
+If you're interested in knowing more about my experience and skills, please don't hesitate to contact me.
+
+📧 Reach me: edwardbrito11@hotmail.com.
+
+#### 🎯 SKILLS
+
+- Web Programming Languages
+- Frontend Development
+- Backend Development
+- Styles Libraries
+- Remote Teamwork · Communication · Software Documentation · Kanban · Scrum
+
+#### 💼 EXPERIENCE
+
+**Intellisys D. Corp — Software Developer**
+
+_AUGUST 2021 - PRESENT_
+
 </div>
