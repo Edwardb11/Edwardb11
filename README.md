@@ -51,6 +51,6 @@ If you're interested in knowing more about my experience and skills, please don'
 
 **Intellisys D. Corp — Software Developer**
 
-_AUGUST 2021 - PRESENT_
+_AUGUST 2021 - JANUARY 2024_
 
 </div>
