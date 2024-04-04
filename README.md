@@ -39,7 +39,7 @@ If you're interested in knowing more about my experience and skills, please don'
 
 📧 Reach me: edwardbrito11@hotmail.com.
 
-#### 🎯 SKILLS
+### 🎯 SKILLS
 
 - Web Programming Languages
 - Frontend Development
@@ -47,10 +47,14 @@ If you're interested in knowing more about my experience and skills, please don'
 - Styles Libraries
 - Remote Teamwork · Communication · Software Documentation · Kanban · Scrum
 
-#### 💼 EXPERIENCE
+### 💼 EXPERIENCE
 
 **Intellisys D. Corp — Software Developer**
 
 _AUGUST 2021 - JANUARY 2024_
+
+**Asociación Popular de Ahorros y Préstamos — Software Developer**
+
+_April 2024 - Present_
 
 </div>
