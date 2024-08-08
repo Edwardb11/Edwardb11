@@ -31,13 +31,14 @@
   <br/>
 <div>
 
-I'm a Full-Stack developer with around 2 years of experience in developing web applications. My specialization is in Full-Stack development using JavaScript, React.js with TypeScript, Material UI, GraphQL, and Node.js with Nest.js, Express.js, TypeORM, Postgres, and Docker.
+My name is Edward Brito, a Software Engineer passionate about web and mobile development. With over 4 years of experience in developing applications, I specialize in Full-Stack development and have built applications using modern JavaScript and TypeScript technologies.
 
-I have a strong passion for technology and am always looking for ways to improve my skills and learn new ones. I am an enthusiastic collaborator and believe in working in a team to achieve common goals.
+As a Systems Engineer, I am constantly seeking ways to enhance my skills and learn new ones. I enjoy sharing my knowledge and helping others whenever possible. I strongly believe in cooperation and teamwork to accomplish shared objectives.
 
-If you're interested in knowing more about my experience and skills, please don't hesitate to contact me.
+If you are interested in learning more about my experience and skills, please feel free to contact me.
 
-📧 Reach me: edwardbrito11@hotmail.com.
+📧 Contact me: edwardbrito11@hotmail.com.
+
 
 ### 🎯 SKILLS
 
